@@ -1,0 +1,7 @@
+[project]
+name = "example-pypi"
+dynamic = ["version"]
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
