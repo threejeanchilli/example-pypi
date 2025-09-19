@@ -2,7 +2,7 @@
 name = "example-tjc"
 description = "Add a description here"
 readme = "README.md"
-version = "0.0.0dev0"
+version = "0.0.0dev1"
 requires-python = ">=3.10"
 dependencies = []
 
