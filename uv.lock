@@ -1,7 +1,8 @@
 version = 1
-revision = 2
+revision = 3
 requires-python = ">=3.10"
 
 [[package]]
-name = "example-pypi"
-source = { virtual = "." }
+name = "example-tjc"
+version = "0.0.0.dev0"
+source = { editable = "." }
